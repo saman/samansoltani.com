@@ -1,2 +1,2 @@
-# samansoltani.github.io
+# saman.github.io
 My personal website
