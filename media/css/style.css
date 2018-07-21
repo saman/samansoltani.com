@@ -126,6 +126,25 @@ a:hover {
   visibility: hidden;
 }
 
+.vcard {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  color: #fff;
+  font-size: 1px;
+}
+
+.vcard a {
+  color: #fff;
+}
+
+.vcard img {
+  width: 1px;
+}
+
 /* Smartphones (portrait) ----------- */
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 850px) and (orientation: portrait) {
