@@ -36,7 +36,7 @@ a:hover {
   height: 250px;
   width: 700px;
   border-radius: 125px;
-  box-shadow: 0 25px 80px -12px rgba(0, 0, 0, 0.03), 0 4px 25px 0px rgba(0, 0, 0, 0.03), 0 8px 10px -5px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 9px 30px rgba(107,124,147,.15);
 }
 
 .info {
