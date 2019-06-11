@@ -70,13 +70,13 @@ a:hover {
 }
 
 .avatar .eyes {
-  left: 113px;
-  top: 108px;
+  left: 99px;
+  top: 102px;
   width: 60px;
   position: absolute;
   fill: #191828;
   opacity: 0;
-  animation: blinker 5s infinite;
+  /* animation: blinker 5s infinite; */
 }
 
 @keyframes blinker {
