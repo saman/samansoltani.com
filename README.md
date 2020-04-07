@@ -1,2 +1,2 @@
-# saman.github.io
+# samansoltani.com
 My personal website
